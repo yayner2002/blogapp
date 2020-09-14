@@ -1,0 +1,33 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "\"codegnitor blogapp by yayner for learners\"",
+  "main": "index.php",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yayner@bitbucket.org/yayner/blogapp.git"
+  },
+  "keywords": [
+    "yayner",
+    "codegnitor",
+    "blogapp"
+  ],
+  "author": "yaynshet medhin",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/yayner/blogapp#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
+}
