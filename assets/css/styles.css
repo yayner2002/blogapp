@@ -1,0 +1,162 @@
+.row-header{
+	margin: 0px auto;
+	padding: 0px auto;
+
+}
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+.footer{
+	background-color: #d1c4e9;
+	margin: auto;
+	padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+	padding: 70px 30px 70px 30px;
+	margin: 0px auto;
+	background: #9575cd;
+	color: floralwhite;
+}
+.address{
+	font-size: 80%;
+	margin: 0px;
+	color: #0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+     }
+.tab-content{
+	border-left:1px solid #ddd;
+	border-right:1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px; 
+
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+
+}
+.jumbotron{
+	background-color: rgb(154,53,255);
+}
+.container{
+	overflow: hidden;
+}
+nav{
+	overflow: hidden;
+}
+.footer {
+    background-color: rgb(12, 110, 89);
+    color:rgb(221, 221, 221);
+    margin: 20px 0 0 0;
+    padding: 30px 0 30px 0;
+
+}
+.navbar, .navbar-inverse {
+    background-color: rgb(28, 61, 48);
+}
+.post-date{
+	background: #f4f4f4;
+	padding: 4px;
+	margin: 3px 0;
+	display:block;
+}
+.error{
+	color: red;
+}
+.post-thumb{
+	width: 100%;
+}
+.footer {
+    background-color: rgb(12, 110, 89);
+    color:rgb(221, 221, 221);
+    margin: 20px 0 0 0;
+    padding: 30px 0 30px 0;
+
+}
+.pagination-links{
+	margin: 30px 0;
+
+}
+.pagination-links strong{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #fafafa;
+	border: 2px gray solid;
+}
+
+a .pagination-link{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #fafafa;
+	border: 2px gray solid;
+
+}
+	.mylog {
+    height: auto;
+    width: auto;
+    max-height: 30px;
+    max-width: 400px;
+}
+#y{
+	background-color: rgb(28, 61, 48);
+	border: none;
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+
+}
+.pagination-links{
+	margin: 30px 0;
+
+
+
+
+}
+.pagination-links strong{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #fafafa;
+	border: 2px coral solid;
+	border-radius: 5px;
+}
+
+a.pagination-link{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #fafafa;
+	border: 2px darkgray solid;
+	border-radius: 5px;
+
+}
+}
